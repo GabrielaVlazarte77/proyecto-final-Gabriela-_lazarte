@@ -1,0 +1,6 @@
+[
+    { "nombre": "Producto 1", "precio": 20, "imagen": "https://images.rappi.pe/products/20687-1540507304.png?d=136x136&e=webp" },
+    { "nombre": "Producto 2", "precio": 50, "imagen": "https://c-va.niceshops.com/upload/image/product/large/default/56108_78918639.256x256.jpg" },
+    { "nombre": "Producto 3", "precio": 30, "imagen": "https://images.rappi.pe/products/500597-1596161817298.jpg?d=136x136&e=webp" },
+    { "nombre": "Producto 4", "precio": 100, "imagen": "https://images.rappi.pe/products/19628-1540506948.png?d=136x136&e=webp" }
+]
